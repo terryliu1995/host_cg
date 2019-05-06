@@ -1,8 +1,9 @@
 # CG for Games Final Project
 ## description:
-In this project, I Implemented a skybox and a brick floor, as well as make my objects reflective and cast a shadow. The brick floor terrain will use basic texture mapping, normal mapping and shadow mapping. What’s more, I also implemented a particle system (extra credit) to simulate rain effect.
+In this project, I Implemented a skybox and a brick floor, as well as make my objects reflective and cast a shadow.
+The brick floor terrain will use basic texture mapping, normal mapping and shadow mapping. What’s more, I also implemented a particle system (extra credit) to simulate rain effect.
 ## Directions:
-Download the project from github. Then, because of the webgl version issue of, open the index.html file with Firefox instead of Chrome would be highly recommended.
+Download the project from github. Then, because of the webgl version issue of and the cross origin issue, please open the index.html file with `Firefox` instead of Chrome and safari..
 Scroll down and up to change the camera position.
 Use key ‘W’, ‘S‘, ‘A’, ‘D’ to change the position of the bunny object.
 ## Claims:
